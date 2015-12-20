@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/local/genometools/latest/bin/gt ltrharvest -index AsparagusCHR_V1.1.fa -out AsparagusCHR_V1.1.fa.ltrharvest.out -gff3 AsparagusCHR_V1.1.fa.ltrharvest.gff -outinner AsparagusCHR_V1.1.fa.outinner.fa -similar 55 -maxdistltr 40000
