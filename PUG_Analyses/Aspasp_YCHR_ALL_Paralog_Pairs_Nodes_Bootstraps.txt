@@ -1,0 +1,1 @@
+Orthogroup	Node	Bootstrap	Paralog1	Paralog2
